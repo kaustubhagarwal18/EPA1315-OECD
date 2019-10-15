@@ -1,11 +1,9 @@
-# EPA1315-OECD
-
-
-
-Final Assignmnet for the course EPA1333(Computer Engineering for Scientific Computing)
+Final Project for the course EPA1315(Data Analytics and Visualization)
 
 Authors -
 
-    Ilmo van Baarle
+    Hongxuan YU
+    Ke Cheng
+    Rui Feng
     Kaustubh Agarwal
 
